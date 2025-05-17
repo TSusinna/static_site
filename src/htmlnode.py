@@ -30,12 +30,16 @@ class LeafNode(HTMLNode):
     
     # Converts the leaf node to HTML, raises ValueError if the value is not set
     def to_html(self):
+        self_closing_tags = {"img", "br", "hr", "input", "meta", "link"}
+        if self.tag in self_closing_tags:
+            return f"<{self.tag}{self.props_to_html()} />"
         if self.value:
             if self.tag:
                 return f"<{self.tag}{self.props_to_html()}>{self.value}</{self.tag}>"
             else:
                 return f"{self.value}"
         else:
+            print(f"DEBUG: LeafNode missing value! tag={self.tag}, props={self.props}")
             raise ValueError("LeafNode must have a value")
 
     # Returns a string representation of the leaf node    
@@ -49,13 +53,9 @@ class ParentNode(HTMLNode):
     
     # Converts the parent node to HTML, raises ValueError if the tag or children are not set
     def to_html(self):
-        if self.tag is None:
-            raise ValueError("ParentNode must have a tag")
-        if self.children is None:
-            raise ValueError("ParentNode must have children")
-        children_html = ""
-        for child in self.children:
-            children_html += child.to_html()
+        if not self.tag:
+            return "".join(child.to_html() for child in self.children or [])
+        children_html = "".join(child.to_html() for child in self.children or [])
         return f"<{self.tag}{self.props_to_html()}>{children_html}</{self.tag}>"
     
     # Returns a string representation of the parent node
