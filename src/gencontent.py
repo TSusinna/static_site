@@ -34,10 +34,12 @@ def generate_page(from_path, template_path, dest_path, basepath="/"):
 
     title = extract_title(markdown_content)
 
-    clean_basepath = basepath.rstrip("/")
     template = template.replace("{{ Title }}", title)
     template = template.replace("{{ Content }}", html)
-    if clean_basepath == "":
+    clean_basepath = "/" + basepath.strip("/") + "/"
+    while "//" in clean_basepath:
+        clean_basepath = clean_basepath.replace("//", "/")
+    if clean_basepath == "/":
         pass
     else:
         template = template.replace('href="/', f'href="{clean_basepath}/')
