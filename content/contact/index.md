@@ -1,9 +1,13 @@
-# Contact the Author
+# Contact
 
 [< Back Home](/)
 
-Give me a call anytime to chat about Tolkien!
+Want to contact me for job opportunities? Go ahead!
 
-`555-555-5555`
+`Phone: +54 9 11-2476-0404`
 
-**"Váya márië."**
+`Email: tomas.susinna@outlook.com`
+
+`LinkedIn: [susinnatomas](https://www.linkedin.com/in/susinnatomas/)`
+
+**Thank you!**

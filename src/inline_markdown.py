@@ -15,24 +15,40 @@ def text_to_textnodes(text):
 # This function splits a list of TextNode objects based on a given delimiter.
 # It replaces the text between delimiters with a new TextNode of a specified type.
 # It raises a ValueError if the number of sections is even, indicating an unclosed formatted section.
+import re
+
 def split_nodes_delimiter(old_nodes, delimiter, text_type):
     new_nodes = []
+    # Regex: delimiter not preceded or followed by a word character
+    pattern = re.compile(
+        rf'(?<!\w){re.escape(delimiter)}(.*?){re.escape(delimiter)}(?!\w)'
+    )
     for old_node in old_nodes:
         if old_node.text_type != TextType.TEXT:
             new_nodes.append(old_node)
             continue
-        split_nodes = []
-        sections = old_node.text.split(delimiter)
-        if len(sections) % 2 == 0:
-            raise ValueError("invalid markdown, formatted section not closed")
-        for i in range(len(sections)):
-            if sections[i] == "":
-                continue
-            if i % 2 == 0:
-                split_nodes.append(TextNode(sections[i], TextType.TEXT))
-            else:
-                split_nodes.append(TextNode(sections[i], text_type))
-        new_nodes.extend(split_nodes)
+        text = old_node.text
+        last_end = 0
+        matches = list(pattern.finditer(text))
+        if not matches:
+            new_nodes.append(old_node)
+            continue
+        for match in matches:
+            start, end = match.span()
+            # Text before the delimiter
+            if start > last_end:
+                before = text[last_end:start]
+                if before:
+                    new_nodes.append(TextNode(before, TextType.TEXT))
+            # Text inside the delimiter
+            inner = match.group(1)
+            new_nodes.append(TextNode(inner, text_type))
+            last_end = end
+        # Text after the last delimiter
+        if last_end < len(text):
+            after = text[last_end:]
+            if after:
+                new_nodes.append(TextNode(after, TextType.TEXT))
     return new_nodes
 
 # Extracts markdown images from a given text.
