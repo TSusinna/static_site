@@ -42,8 +42,9 @@ def generate_page(from_path, template_path, dest_path, basepath="/"):
     if clean_basepath == "/":
         pass
     else:
-        template = template.replace('href="/', f'href="{clean_basepath}/')
-        template = template.replace('src="/', f'src="{clean_basepath}/')
+        path_prefix = clean_basepath.rstrip("/")
+        template = template.replace('href="/', f'href="{path_prefix}/')
+        template = template.replace('src="/', f'src="{path_prefix}/')
 
     dest_dir_path = os.path.dirname(dest_path)
     if dest_dir_path != "":
