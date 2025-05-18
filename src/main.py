@@ -2,7 +2,6 @@ import os
 import shutil
 import sys
 
-from textnode import TextNode, TextType
 from copystatic import copy_files_recursive
 from gencontent import generate_pages_recursive
 

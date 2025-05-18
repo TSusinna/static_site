@@ -19,7 +19,7 @@ def generate_pages_recursive(dir_path_content, template_path, dest_dir_path, bas
 # and saves the generated HTML to the destination path
 # It reads the markdown content, converts it to HTML, and replaces placeholders in the template with the title and content
 # It also creates the destination directory if it doesn't exist
-def generate_page(from_path, template_path, dest_path, basepath):
+def generate_page(from_path, template_path, dest_path, basepath="/"):
     print(f" * {from_path} {template_path} -> {dest_path}")
     from_file = open(from_path, "r")
     markdown_content = from_file.read()
