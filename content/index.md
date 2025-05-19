@@ -3,13 +3,13 @@
 
 [Contact me here.](contact)
 
-![TomasSusinnaMastroianni](./images/tomas.png)
+![TomasSusinnaMastroianni](images/tomas.png)
 
 ## Backend developer / Administrative / Data entry
 
-> This page was 100% created using a little project of mine, where you can give it markdown files and it will convert them to HTML. Then you can run it and see it as a fully converted page, it was a fun project to make. [You can see it here.](/projects/static_site)
+> This page was 100% created using a little project of mine, where you can give it markdown files and it will convert them to HTML. Then you can run it and see it as a fully converted page, it was a fun project to make. [You can see it here.](projects/static_site)
 
-#### See all my projects [here.](/projects)
+#### See all my projects [here.](projects)
 
 ## About me
 

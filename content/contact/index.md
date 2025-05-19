@@ -1,6 +1,6 @@
 # Contact
 
-[< Back Home]()
+[< Back Home](/)
 
 Want to contact me for job opportunities? Go ahead!
 
