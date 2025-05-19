@@ -36,19 +36,19 @@ def generate_page(from_path, template_path, dest_path, basepath="/"):
 
     template = template.replace("{{ Title }}", title)
     template = template.replace("{{ Content }}", html)
-    clean_basepath = "/" + basepath.strip("/") + "/"
-    while "//" in clean_basepath:
-        clean_basepath = clean_basepath.replace("//", "/")
-    if clean_basepath == "/":
-        pass
-    else:
-        path_prefix = clean_basepath.rstrip("/")
+    #clean_basepath = "/" + basepath.strip("/") + "/"
+    #while "//" in clean_basepath:
+    #    clean_basepath = clean_basepath.replace("//", "/")
+    #if clean_basepath == "/":
+    #    pass
+    #else:
+    #    path_prefix = clean_basepath.rstrip("/")
         # Only replace if not already using the correct basepath
-        template = template.replace('href="/', f'href="{path_prefix}/')
-        template = template.replace('src="/', f'src="{path_prefix}/')
-        # Fix double basepath if already present
-        template = template.replace(f'href="{path_prefix}{path_prefix}/', f'href="{path_prefix}/')
-        template = template.replace(f'src="{path_prefix}{path_prefix}/', f'src="{path_prefix}/')
+    #    template = template.replace('href="/', f'href="{path_prefix}/')
+    #    template = template.replace('src="/', f'src="{path_prefix}/')
+    #    # Fix double basepath if already present
+    #   template = template.replace(f'href="{path_prefix}{path_prefix}/', f'href="{path_prefix}/')
+    #    template = template.replace(f'src="{path_prefix}{path_prefix}/', f'src="{path_prefix}/')
     dest_dir_path = os.path.dirname(dest_path)
     if dest_dir_path != "":
         os.makedirs(dest_dir_path, exist_ok=True)
