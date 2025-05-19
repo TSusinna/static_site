@@ -3,7 +3,7 @@
 
 [Contact me here.](/contact)
 
-![TomasSusinnaMastroianni](images/tomas.png)
+![TomasSusinnaMastroianni](./images/tomas.png)
 
 ## Backend developer / Administrative / Data entry
 
