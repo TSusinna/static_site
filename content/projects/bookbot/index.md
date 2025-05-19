@@ -4,9 +4,9 @@
 
 [GitHub Repository](https://github.com/TSusinna/bookbot)
 
-### Current version: 1.2
+- Current version: 1.2
 
-### Python only
+- Python only
 
 ### About it
 

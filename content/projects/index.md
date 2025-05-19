@@ -2,18 +2,18 @@
 
 [< Back Home](/)
 
-### [Static Site Generator](/projects/static_site)
+- [Static Site Generator](/projects/static_site)
 
 The one you're currently looking at.
 
-### [Online Store](/projects/online_store)
+- [Online Store](/projects/online_store)
 
 A template for an online store.
 
-### [Asteroids](/projects/asteroids)
+- [Asteroids](/projects/asteroids)
 
 A recreation of Asteroids using Pygame.
 
-### [Bookbot](/projects/bookbot)
+- [Bookbot](/projects/bookbot)
 
 A simple word counter, it was my first project.

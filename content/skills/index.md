@@ -4,7 +4,7 @@
 
 ## My technical skills
 
-- Microsoft Excel / Google Sheets - Advanced
+- Microsoft Excel and Google Sheets - Advanced
 - Python - Intermediate
 - JavaScript - Beginner
 - SQL - Beginner

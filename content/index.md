@@ -3,7 +3,7 @@
 
 [Contact me here.](/contact)
 
-![Tomas_Susinna_Mastroianni](/images/tomas.png)
+![TomasSusinnaMastroianni](/images/tomas.png)
 
 ## Backend developer / Administrative / Data entry
 
@@ -70,4 +70,4 @@ _December 2017 - February 2021_
 I worked alongside the closest team to one of the owners. I was responsible for ensuring the organization of both physical and digital files, computer maintenance, daily Excel reports and various procedures and schedules with complete thoroughness, responsibility and confidentiality.
 
 
-Want to know me better? [Contact me here.](/contact)
+> Want to know me better? [Contact me here.](/contact)

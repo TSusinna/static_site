@@ -4,9 +4,9 @@
 
 [GitHub Repository](https://github.com/TSusinna/Asteroids)
 
-### Current version: 1.1.6
+- Current version: 1.1.6
 
-### Python only
+- Python only
 
 ### About it
 

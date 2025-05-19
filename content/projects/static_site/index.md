@@ -4,9 +4,9 @@
 
 [GitHub Repository](https://github.com/TSusinna/static_site)
 
-### Current version: 2.1
+- Current version: 2.2
 
-### Python, CSS, HTML
+- Python, CSS, HTML
 
 ### About it
 
