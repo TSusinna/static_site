@@ -1,7 +1,7 @@
 # Tomás Susinna Mastroianni
 
 
-[Contact me here.](/contact)
+[Contact me here.](./contact)
 
 ![TomasSusinnaMastroianni](./images/tomas.png)
 
