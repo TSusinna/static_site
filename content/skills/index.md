@@ -1,6 +1,6 @@
 # My skills
 
-[< Back Home](/)
+[< Back Home](..)
 
 ## My technical skills
 

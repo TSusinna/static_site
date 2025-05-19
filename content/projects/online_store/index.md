@@ -1,6 +1,6 @@
 # Online Store
 
-[< Back to projects](/projects)
+[< Back to projects](..)
 
 [GitHub Repository](https://github.com/TSusinna/online_store)
 

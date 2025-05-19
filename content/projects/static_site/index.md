@@ -1,6 +1,6 @@
 # Static Site Generator
 
-[< Back to projects](/projects)
+[< Back to projects](..)
 
 [GitHub Repository](https://github.com/TSusinna/static_site)
 

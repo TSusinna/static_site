@@ -17,7 +17,7 @@
 
   **As for administrative tasks**, it’s something I’m very good at given my organized and fast-paced nature in digital environments. I manage my finances, accounts and tasks using Google Sheets and I literally enjoy doing it. I feel the app is an extension of myself. I’m good at meeting deadlines and have the ability to multitask without losing control.
 
-  [More about me.](/more_info)
+  [More about me.](more_info)
 
 ## My technical skills
 
@@ -28,7 +28,7 @@
 - Linux CLI - Intermediate
 - Data Entry - Intermediate
 - Git - Intermediate
-- [See the full list here.](/skills)
+- [See the full list here.](skills)
 
 ## My soft skills
 
@@ -36,7 +36,7 @@
 - Attention to detail
 - Excelent organization and time management
 - Text redaction
-- [See the full list here.](/skills)
+- [See the full list here.](skills)
 
 ## My languages
 
@@ -70,4 +70,4 @@ _December 2017 - February 2021_
 I worked alongside the closest team to one of the owners. I was responsible for ensuring the organization of both physical and digital files, computer maintenance, daily Excel reports and various procedures and schedules with complete thoroughness, responsibility and confidentiality.
 
 
-> Want to know me better? [Contact me here.](/contact)
+> Want to know me better? [Contact me here.](contact)
