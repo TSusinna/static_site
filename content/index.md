@@ -50,14 +50,12 @@
 
 _April 2023 - Current day_
 
-
 I lead a 17-person team to ensure optimal establishment operations, working responsibly to deliver results without supervision. My most frequent tasks include staff management, stock and cost control, supplier orders, and bank account management. Additionally, I manage the establishment's social media presence, posting ads, comments, and stories on platforms like Instagram and Facebook to enhance customer engagement and promote our services effectively. I also utilize Microsoft Outlook to manage restaurant email accounts efficiently, ensuring clear communication with suppliers and customers. Furthermore, I leverage Microsoft Excel to create detailed financial and inventory sheets, employing complex formulas and scripts to streamline operations and enhance data accuracy.
 
 
 #### **E-commerce employee** at Farma365, Pharmaceutical chain
 
 _February 2021 - September 2021_
-
 
 I was responsible for dispatching and billing sales made through the chain’s website and Mercado Libre, while also providing customer service via email and phone calls. Since this was during the company’s first months, I created sales reports, developed marketing campaigns, and conducted error testing alongside the web development team. Additionally, I engaged in social media management by replying to comments on the online store and supporting the marketing team in creating ads for Instagram, which helped enhance customer engagement and brand visibility. Furthermore, I utilized client scheduling skills to organize deliveries for customers and arrange in-person meetings with potential companies to promote our products, ensuring a streamlined sales process and fostering valuable business relationships.
 
@@ -66,8 +64,22 @@ I was responsible for dispatching and billing sales made through the chain’s w
 
 _December 2017 - February 2021_
 
-
 I worked alongside the closest team to one of the owners. I was responsible for ensuring the organization of both physical and digital files, computer maintenance, daily Excel reports and various procedures and schedules with complete thoroughness, responsibility and confidentiality.
 
+## My studies
+
+#### **Backend Programming** at Boot.dev
+
+_March 2024 - Current day_
+
+Boot.dev is an online course focused on Python, but it also has various modules in it like **JavaScript, Go, SQL, Docker and more**. Check out my profile there to see more details about my advances [here.](https://www.boot.dev/u/tommy.sm)
+
+#### **Computer Programming** at San Martín National University
+
+_March 2023 - Current day_
+
+I started studying there to pursue a degree while I study with courses and personal projects as I see them as a faster way of achieving my objectives.
+
+#### See all my studies [here.](studies)
 
 > Want to know me better? [Contact me here.](contact)
