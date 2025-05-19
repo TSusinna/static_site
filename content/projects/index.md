@@ -1,6 +1,6 @@
 # My projects
 
-[< Back Home](/)
+[< Back Home](..)
 
 - [Static Site Generator](/projects/static_site)
 

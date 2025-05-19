@@ -1,6 +1,6 @@
 # More information
 
-[< Back Home](/)
+[< Back Home](..)
 
 - Date of birth: August 28, 1999
 - Location: Buenos Aires, Argentina
