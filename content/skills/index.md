@@ -4,28 +4,30 @@
 
 ## My technical skills
 
-- Microsoft Excel and Google Sheets - Advanced
+- Microsoft Excel and Google Sheets - Proficient
+- Process automation - Intermediate
 - Python - Intermediate
-- JavaScript - Beginner
-- SQL - Beginner
-- Linux CLI - Intermediate
 - Data Entry - Intermediate
 - Git - Intermediate
-- Adobe Photoshop - Beginner
-- Canva - Intermediate
-- Inventory control - Intermediate
+- Linux CLI - Intermediate
+- SQL - Beginner
+- E-commerce - Proficient
 - Customer support - Proficient
 - AI usage - Proficient
+- Inventory control - Intermediate
 - Sales - Proficient
-- E-commerce - Proficient
+- Social media management - Intermediate
+- Canva - Intermediate
+- Adobe Photoshop - Beginner
+- JavaScript - Beginner
 
 ## My soft skills
 
-- Personnel management
-- Attention to detail
 - Excelent organization and time management
-- Text redaction
-- Creativity
+- Attention to detail
+- Personnel management
 - Communication and teamwork
 - Empathy and respect above all
 - Absolute confidentiality
+- Creativity
+- Text redaction

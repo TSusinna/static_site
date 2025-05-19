@@ -9,4 +9,4 @@
 - Check out my GitHub account [here.](https://github.com/TSusinna/)
 - Wanna check my personal account instead? Look for @kaltommy on Instagram.
 
-Want to know me better? [Contact me here.](contact)
+Want to know me better? [Contact me here.](../contact)

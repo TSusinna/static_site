@@ -1,5 +1,7 @@
 # Tomás Susinna Mastroianni
 
+[Spanish](spanish)
+
 
 [Contact me here.](contact)
 
@@ -13,29 +15,29 @@
 
 ## About me
 
-  **Regarding development**, from a very young age I was passionate about the idea of automating tasks with technology, as well as any advancements in artificial intelligence. I started studying JavaScript but ended up fascinated by Python and everything it can do. I have a solid foundation in this language and I’m currently learning data structures, NumPy and Pandas to upload more personal projects. I maintain JavaScript Knowledge and usually operate using a Linux terminal for convenience. After this stage, I want to delve into the field of AI.
+  **Regarding development**, from a young age I've been passionate about technology and its power to automate tasks and enhance workflows through artificial intelligence. I began learning JavaScript, but quickly became fascinated with Python and its vast capabilities. I now have a solid foundation in this language and am currently studying data structures. My main areas of interest are data science and AI, where I aim to develop practical and impactful solutions. My previous experience automating financial and inventory reports using Excel cusom scripts demonstrates my proactive approach to streamlining processes, an asset that translates seamlessly into software development and data analysis roles.
 
-  **As for administrative tasks**, it’s something I’m very good at given my organized and fast-paced nature in digital environments. I manage my finances, accounts and tasks using Google Sheets and I literally enjoy doing it. I feel the app is an extension of myself. I’m good at meeting deadlines and have the ability to multitask without losing control.
+  **As for administrative tasks**, I thrive in this kind of roles thanks to my strong organizational skills, digital agility and ability to multitask efficiently without losing accuracy. I genuinely enjoy managing tasks and planning, and I use tools like Google Sheets to track my personal finances, accounts and to-do lists, building automated and efficient spreadsheets tailored to my needs. I'm detail-oriented, self-driven and committed to maintain a high standard of work.
 
   [More about me.](more_info)
 
 ## My technical skills
 
-- Microsoft Excel / Google Sheets - Advanced
+- Microsoft Excel and Google Sheets - Proficient
+- Process automation - Intermediate
 - Python - Intermediate
-- JavaScript - Beginner
-- SQL - Beginner
-- Linux CLI - Intermediate
 - Data Entry - Intermediate
 - Git - Intermediate
+- Linux CLI - Intermediate
+- SQL - Beginner
 - [See the full list here.](skills)
 
 ## My soft skills
 
-- Personnel management
-- Attention to detail
 - Excelent organization and time management
-- Text redaction
+- Attention to detail
+- Personnel management
+- Communication and teamwork
 - [See the full list here.](skills)
 
 ## My languages
@@ -50,21 +52,21 @@
 
 _April 2023 - Current day_
 
-I lead a 17-person team to ensure optimal establishment operations, working responsibly to deliver results without supervision. My most frequent tasks include staff management, stock and cost control, supplier orders, and bank account management. Additionally, I manage the establishment's social media presence, posting ads, comments, and stories on platforms like Instagram and Facebook to enhance customer engagement and promote our services effectively. I also utilize Microsoft Outlook to manage restaurant email accounts efficiently, ensuring clear communication with suppliers and customers. Furthermore, I leverage Microsoft Excel to create detailed financial and inventory sheets, employing complex formulas and scripts to streamline operations and enhance data accuracy.
+Led a dynamic 17-person team in a fast-paced environment, ensuring efficient workflow and consistently high-quality service and products. Worked independently with minimal to no supervision. Oversaw all aspects of staff management including hiring, onboarding, training and conflict resolution. Managed inventory, supplier orders and financial operations. Designed advanced Excel spreadsheets incorporating complex formulas and automation scripts to streamline inventory tracking and financial reporting. Handled social media management, creating engaging content and promotional campaigns on Instagram and Facebook to boost customer engagement and event attendance.
 
 
 #### **E-commerce employee** at Farma365, Pharmaceutical chain
 
 _February 2021 - September 2021_
 
-I was responsible for dispatching and billing sales made through the chain’s website and Mercado Libre, while also providing customer service via email and phone calls. Since this was during the company’s first months, I created sales reports, developed marketing campaigns, and conducted error testing alongside the web development team. Additionally, I engaged in social media management by replying to comments on the online store and supporting the marketing team in creating ads for Instagram, which helped enhance customer engagement and brand visibility. Furthermore, I utilized client scheduling skills to organize deliveries for customers and arrange in-person meetings with potential companies to promote our products, ensuring a streamlined sales process and fostering valuable business relationships.
+Managed order dispatch and billing for online sales via the company’s website and Mercado Libre, while delivering responsive customer support through email and phone. Produced regular sales reports and collaborated with the web development team on marketing strategies and error testing. Performed extensive data entry and database management, ensuring accurate logging of customer, product and sales data.
 
 
 #### **Administrative assistant** at Grupo Vientos, Real Estate Development
 
 _December 2017 - February 2021_
 
-I worked alongside the closest team to one of the owners. I was responsible for ensuring the organization of both physical and digital files, computer maintenance, daily Excel reports and various procedures and schedules with complete thoroughness, responsibility and confidentiality.
+Supported a close-knit administrative team with day-to-day operations, specializing in data entry, file organization and cash flow tracking. Maintained structured and accessible digital and physical records using systematic naming conventions. Provided basic tech support and created daily Excel cash flow reports to assist in financial planning. Ensured seamless back-office functionality through meticulous attention to detail and process optimization.
 
 ## My studies
 
