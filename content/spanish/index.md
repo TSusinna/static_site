@@ -15,11 +15,11 @@
 
 ## Acerca de mí
 
-  **Respecto al desarrollo**, desde temprana edad me apasiona la tecnología, especialmente su capacidad para automatizar tareas y mejorar procesos mediante la inteligencia artificial. Este interés me llevó a iniciarme en programación con JavaScript, pero fue Python lo que realmente capturó mi atención. Hoy cuento con una base sólida en este lenguaje y actualmente me encuentro profundizando en estructuras de datos. Mis principales áreas de interés son la ciencia de datos y la IA, donde busco aplicar mis conocimientos para crear nuevas soluciones y avances. Mi experiencia previa en automatización de reportes e inventarios con Excel y scripts reflejan mi enfoque proactivo en la optimización de procesos, una habilidad que transfiero al desarrollo y análisis de datos.
+**Respecto al desarrollo**, desde temprana edad me apasiona la tecnología, especialmente su capacidad para automatizar tareas y mejorar procesos mediante la inteligencia artificial. Este interés me llevó a iniciarme en programación con JavaScript, pero fue Python lo que realmente capturó mi atención. Hoy cuento con una base sólida en este lenguaje y actualmente me encuentro profundizando en estructuras de datos. Mis principales áreas de interés son la ciencia de datos y la IA, donde busco aplicar mis conocimientos para crear nuevas soluciones y avances. Mi experiencia previa en automatización de reportes e inventarios con Excel y scripts reflejan mi enfoque proactivo en la optimización de procesos, una habilidad que transfiero al desarrollo y análisis de datos.
 
-  **En cuanto a lo administrativo**, me destaco en estos entornos gracias a mi impecable organización tanto en lo personal como en lo laboral, así como mi agilidad digital y capacidad para manejar múltiples tareas sin perder precisión. Disfruto genuinamente de la planificación y el control, y utilizo herramientas como Google Sheets para gestionar mis finanzas, cuentas y actividades personales, desarrollando hojas de cálculo automatizadas y eficientes. Soy una persona orientada al detalle, con gran autonomía, responsabilidad y compromiso.
+**En cuanto a lo administrativo**, me destaco en estos entornos gracias a mi impecable organización tanto en lo personal como en lo laboral, así como mi agilidad digital y capacidad para manejar múltiples tareas sin perder precisión. Disfruto genuinamente de la planificación y el control, y utilizo herramientas como Google Sheets para gestionar mis finanzas, cuentas y actividades personales, desarrollando hojas de cálculo automatizadas y eficientes. Soy una persona orientada al detalle, con gran autonomía, responsabilidad y compromiso.
 
-  [Más sobre mí.](more_info)
+[Más sobre mí.](more_info)
 
 ## Mis habilidades técnicas
 

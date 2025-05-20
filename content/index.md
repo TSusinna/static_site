@@ -15,11 +15,11 @@
 
 ## About me
 
-  **Regarding development**, from a young age I've been passionate about technology and its power to automate tasks and enhance workflows through artificial intelligence. I began learning JavaScript, but quickly became fascinated with Python and its vast capabilities. I now have a solid foundation in this language and am currently studying data structures. My main areas of interest are data science and AI, where I aim to develop practical and impactful solutions. My previous experience automating financial and inventory reports using Excel cusom scripts demonstrates my proactive approach to streamlining processes, an asset that translates seamlessly into software development and data analysis roles.
+**Regarding development**, from a young age I've been passionate about technology and its power to automate tasks and enhance workflows through artificial intelligence. I began learning JavaScript, but quickly became fascinated with Python and its vast capabilities. I now have a solid foundation in this language and am currently studying data structures. My main areas of interest are data science and AI, where I aim to develop practical and impactful solutions. My previous experience automating financial and inventory reports using Excel cusom scripts demonstrates my proactive approach to streamlining processes, an asset that translates seamlessly into software development and data analysis roles.
 
-  **As for administrative tasks**, I thrive in this kind of roles thanks to my strong organizational skills, digital agility and ability to multitask efficiently without losing accuracy. I genuinely enjoy managing tasks and planning, and I use tools like Google Sheets to track my personal finances, accounts and to-do lists, building automated and efficient spreadsheets tailored to my needs. I'm detail-oriented, self-driven and committed to maintain a high standard of work.
+**As for administrative tasks**, I thrive in this kind of roles thanks to my strong organizational skills, digital agility and ability to multitask efficiently without losing accuracy. I genuinely enjoy managing tasks and planning, and I use tools like Google Sheets to track my personal finances, accounts and to-do lists, building automated and efficient spreadsheets tailored to my needs. I'm detail-oriented, self-driven and committed to maintain a high standard of work.
 
-  [More about me.](more_info)
+[More about me.](more_info)
 
 ## My technical skills
 

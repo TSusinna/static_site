@@ -20,6 +20,7 @@
 - Canva - Intermediate
 - Adobe Photoshop - Beginner
 - JavaScript - Beginner
+- Driving licence - B1
 
 ## My soft skills
 

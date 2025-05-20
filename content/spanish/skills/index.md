@@ -15,11 +15,12 @@
 - Soporte al cliente - Avanzado
 - Uso de IA - Avanzado
 - Control de inventario - Intermedio
-- Sales - Avanzado
+- Ventas - Avanzado
 - Manejo de redes sociales - Intermedio
 - Canva - Intermedio
 - Adobe Photoshop - Principiante
 - JavaScript - Principiante
+- Licencia de conducir - B1
 
 ## Mis habilidades blandas
 
