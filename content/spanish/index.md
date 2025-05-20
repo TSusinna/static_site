@@ -32,7 +32,7 @@
 - SQL - Principiante
 - [Mira la lista completa aquí.](skills)
 
-## My soft skills
+## Mis habilidades blandas
 
 - Excelente organización y manejo de tiempos
 - Atención al detalle

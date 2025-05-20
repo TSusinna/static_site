@@ -4,7 +4,7 @@
 
 [Repositorio en GitHub](https://github.com/TSusinna/static_site)
 
-- Versión actual: 2.6
+- Versión actual: 2.6.1
 
 - Python, CSS, HTML
 
